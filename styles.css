@@ -1,4 +1,4 @@
-body > div
+body.buttonContainer
 {
     background-color: #808080;
 }
@@ -49,9 +49,9 @@ body > div
     background-color: #ffff00;
 }
 
-.pageLink:hover
+a:hover
 {
-    background-color: black;
+    color: black;
 }
 
 .pageLink
