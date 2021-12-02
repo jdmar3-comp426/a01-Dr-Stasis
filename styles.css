@@ -1,7 +1,10 @@
-.buttonContainer
+body > div
 {
     background-color: #808080;
+}
 
+.buttonContainer
+{
     display: flex;
     justify-content: space-between;
 
@@ -44,6 +47,11 @@
 #homeLink3:hover
 {
     background-color: #ffff00;
+}
+
+.pageLink:hover
+{
+    background-color: black;
 }
 
 .pageLink
