@@ -1,0 +1,75 @@
+a:hover
+{
+    color: black;
+}
+
+body.button-container
+{
+    background-color: #808080;
+}
+
+.button-container
+{
+    display: flex;
+    justify-content: space-between;
+
+    border: groove;
+    width: 650px;
+
+    padding: 25px;
+}
+
+.home-link
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#home-link-1
+{
+    color: #ff0000; 
+}
+
+#home-link-1:hover
+{
+    background-color: #00ffff;
+}
+
+#home-link-2
+{
+    color: #008000;
+}
+
+#home-link-2:hover
+{
+    background-color: #ff00ff;
+}
+
+#home-link-3
+{
+    color: #0000ff;
+}
+
+#home-link-3:hover
+{
+    background-color: #ffff00;
+}
+
+.page-link
+{
+    font-family: cursive;
+}
+
+#page-link-1
+{
+    color: #ff0000;
+}
+
+#page-link-2
+{
+    color: #008000;
+}
+
+#page-link-3
+{
+    color: #0000ff;
+}
