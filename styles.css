@@ -1,3 +1,8 @@
+a:hover
+{
+    color: black;
+}
+
 body.buttonContainer
 {
     background-color: #808080;
@@ -21,7 +26,7 @@ body.buttonContainer
 
 #homeLink1
 {
-    color: #ff0000;
+    color: #ff0000; 
 }
 
 #homeLink1:hover
@@ -47,11 +52,6 @@ body.buttonContainer
 #homeLink3:hover
 {
     background-color: #ffff00;
-}
-
-a:hover
-{
-    color: black;
 }
 
 .pageLink
